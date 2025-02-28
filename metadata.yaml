@@ -1,11 +1,16 @@
 _repo: Dyes-and-dyeing_75302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75302-h/images/cover.jpg
 creator:
   author:
     agent_name: Pellew, Charles Ernest
     gutenberg_agent_id: '57933'
     url: http://www.gutenberg.org/2009/agents/57933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75302#Dyes-and-dyeing
 gutenberg_issued: '2025-02-06'
 gutenberg_type: Text
 identifiers:
